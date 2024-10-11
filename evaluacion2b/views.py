@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
-from principal.forms import FormProyecto
-from principal.models import Proyecto
+from evaluacion2b.forms import FormProyecto
+from evaluacion2b.models import Proyecto
 
 
 # Create your views here.
